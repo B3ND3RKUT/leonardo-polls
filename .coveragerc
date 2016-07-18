@@ -1,0 +1,5 @@
+[run]
+source = leonardo_polls
+omit =
+    *migrations*
+    leonardo_polls/__init__.py
